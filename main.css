@@ -1,0 +1,121 @@
+.bg-primary-cl{
+    background-color:#d9f5ff;
+    
+}
+.bg-secondary-cl{
+    background-color: antiquewhite;
+    color: #e38804;
+}
+h2{
+   color:#423f67;
+   text-align: center;
+   font-size: 50px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   margin-top: 10px;
+   margin-right: 1%;
+   
+}
+.li{
+    display: inline;
+}
+.nav{
+    
+    background-color:aquamarine;
+
+}
+.container1{
+   margin-top:15px;
+   padding-right: 100px;
+}
+h3{
+    color: #ffc76e;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   padding-left: 140px;
+}
+h5{
+    padding-left: 50%;
+    margin-top: 1%;
+}
+li{
+    color: #423f67;
+    display: inline;
+    padding-inline: 5%;
+    
+}
+.head-icons{
+    float:right;
+    margin-right:100px;
+}
+.nav{
+    list-style-type:none;
+    margin-left:-50px;
+}
+img1{
+    margin-top: 4%;
+}
+spans{
+    text-align: center;
+    text-decoration:dashed;
+    text-shadow: #423f67;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    margin-top: 5%;
+    margin-left: 28%;
+}
+.content{
+    padding:100px;
+    margin-top:-50px;
+      
+   }
+   .content p{
+       color:white;
+   }
+   .card{
+       background-color:#f2f2f2;
+       border: #24b2b8;
+       width:500px;
+       margin-bottom:10px;
+       
+   }
+   .content2{
+       padding-top:40px;
+       margin-top:40px;
+     
+       height:250px;
+       
+   }
+   .content2 h3{
+       color:#24b2b8;
+       text-align: center;
+   }
+   .content2 p{
+       font-size: 15px;
+       text-align: justify;
+   }
+   .content2 h4{
+       color:#ff7101;
+      
+   }
+   button{
+       background-color:#24b2b8;   
+       border:#24b2b8;
+       border-radius: 25px;
+       color:white;
+       width:200px;
+       height:40px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 10%;
+       display: inline;
+        shadow:#24b2b8;
+   }
+   .fa-icons{
+       float:left;
+       margin-left:100px;
+       padding-top:10px;
+       size:40px;
+   }
